@@ -16,7 +16,6 @@ Zona Fit App es una aplicación de gestión para gimnasios que permite administr
 
 - Python 3.x
 - `tkinter` (viene incluido con Python en la mayoría de las distribuciones)
-- Otros módulos necesarios (especificar si hay otros)
 
 ## Instalación
 
