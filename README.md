@@ -67,9 +67,9 @@ Las contribuciones son bienvenidas. Si deseas contribuir:
 4. Sube a la rama (`git push origin feature/nueva_caracteristica`).
 5. Crea un nuevo Pull Request.
 
-## Licencia
+## Creditos
 
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+Quiero agradecer al ing-ubaldo-acosta el cual me ayudo a poder desarrollar este proyecto utilizando las herramientas antes mencionadas
 
 ## Contacto
 
