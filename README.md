@@ -23,8 +23,7 @@ Zona Fit App es una aplicación de gestión para gimnasios que permite administr
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
-    cd tu_repositorio
+    git clone https://github.com/MainRDSniper09/Zona_Fit_app
     ```
 
 2. Asegúrate de tener `tkinter` instalado. En la mayoría de las distribuciones de Python, viene incluido de serie. Si no, puedes instalarlo con:
