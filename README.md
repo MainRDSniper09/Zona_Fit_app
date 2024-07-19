@@ -57,7 +57,6 @@ Zona Fit App es una aplicación de gestión para gimnasios que permite administr
 - `cliente.py`: Definición de la clase Cliente.
 - `cliente_dao.py`: Gestión de datos de clientes (DAO).
 - `README.md`: Este archivo.
-- Otros archivos necesarios (especificar si hay otros).
 
 ## Contribuciones
 
